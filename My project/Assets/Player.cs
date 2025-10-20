@@ -7,7 +7,6 @@ using UnityEngine.SceneManagement;
 public class Player : MonoBehaviour
 {
     public float speed;
-    TextMeshProUGUI text;
     public AudioSource theSauce;
     public AudioClip hurtSound;
     public float health = 10;
